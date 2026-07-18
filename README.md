@@ -6,3 +6,8 @@ you can copy an existing one and just rename it.
 - edit /source/main.cpp
 - add your song to the #include "mynewsong.h"
 - add your song to the songs array. newsongTiles, newsongPal then in quotes is what actually shows up in the player text
+
+# building / rebuilding the rom
+- open term in project root directory and run: make clean
+- then run: make
+  
