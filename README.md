@@ -1,5 +1,9 @@
-# how to add songs
 
+
+# how to add songs
+- use the python song_adder.py
+
+## adding manually
 - must have 64x64 pixel album artwork in graphics directory and .grit file
 you can copy an existing one and just rename it.
 - put music in /music. hyphens usually break the code its better to not use them.
